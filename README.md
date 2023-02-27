@@ -26,7 +26,7 @@ Bukkit < Forge < Spigot < Fabric < Paper < Purpur < Kaiiju
 
 ## Plugins
 - [View Distance Tweaks](https://github.com/froobynooby/ViewDistanceTweaks): Changer la simulation et la view distance en fonction des performances du serveur. Il est recommandé d'utiliser la version de ce plugin maintenue par Kaiiju, étant plus à jour. [Lien](https://github.com/KaiijuMC/ViewDistanceTweaks)
-- [AFK View Distance](https://github.com/KaiijuMC/AFKViewDistance): Limiter la view distance et la simulation distance des joueurs AFK.
+- [AFK View Distance](https://github.com/KaiijuMC/AFKViewDistance): Limiter la view distance et la simulation distance des joueurs AFK. Créé par Kaiiju.
 - [Spark](https://spark.lucko.me/): Permet de diagnostiquer les lags de son serveur, de surveiller la performance et d'avoir des statistiques.
 
 ## Autre
